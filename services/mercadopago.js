@@ -66,7 +66,7 @@ const getPreferenceId = ({title = 'Title genérico', price = 1000, img}) => {
             "payer": {
                 name: 'Lalo Landa',
                 email: 'test_user_63274575@testuser.com',
-                indentification: {
+                identification: {
                     type: 'DNI',
                     number: '22333444'
                 },
